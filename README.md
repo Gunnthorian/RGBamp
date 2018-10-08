@@ -10,8 +10,8 @@ This is a small project that I wanted to work on, I use a perma-proto board from
 <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/board.png" width="500">
 <br>
 BOM:
-* 3 -- 330Ω resistors
-* 1 -- 16v 220µf capacitor
-* 1 -- 12v power jack ([link to one on Sparkfun's site](https://www.sparkfun.com/products/119 "link to part"))
-* 2 -- 4 pin headers (preferably 90°)
-* 3 -- TIP31C mosfet transistors
+<li>3 -- 330Ω resistors</li>
+<li>1 -- 16v 220µf capacitor</li>
+<li>1 -- 12v power jack<a href="https://www.sparkfun.com/products/119">link to part on Sparkfun's site</a></li>
+<li>2 -- 4 pin headers (preferably 90°)</li>
+<li>3 -- TIP31C mosfet transistors</li>
