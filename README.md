@@ -6,9 +6,9 @@ Designed by Gunnar Bjorkman
 This is a small project that I wanted to work on, I use a perma-proto board from this design currently to control my RGB light strip on my desk. Here is an opensource schematic of the board for anyone to use and manufacture themselves (I used PCBway.com, it was a total of $18 to get 10 of the bare boards made and shipped to my house)
 
 <div style="height:500px">
-  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/schematic.png" width="300" style="float:left">
-  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/board.png" width="300" style="float:left">
-  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/render.png" width="300" style="float:left">
+  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/schematic.png" width="250" style="float:left">
+  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/board.png" width="250" style="float:left">
+  <img src="https://raw.githubusercontent.com/Gunnthorian/RGBamp/master/render.png" width="250" style="float:left">
 </div>
 <br>
 <div style="width:500px">
