@@ -3,7 +3,7 @@
 <eagle version="9.1.3">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="12.5" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="0.1" altunitdist="mm" altunit="mm"/>
@@ -1757,14 +1757,16 @@ design rules under a new name.</description>
 <contactref element="JP1" pad="4"/>
 <wire x1="31.75" y1="50.8" x2="31.75" y2="52.07" width="0.6096" layer="1"/>
 <wire x1="31.75" y1="52.07" x2="36.83" y2="57.15" width="0.6096" layer="1"/>
-<wire x1="34.925" y1="64.77" x2="34.925" y2="63.8175" width="0.6096" layer="1"/>
+<wire x1="34.925" y1="64.77" x2="34.925" y2="64.135" width="0.6096" layer="1"/>
 <wire x1="34.925" y1="64.135" x2="34.925" y2="63.8175" width="0.6096" layer="1"/>
-<wire x1="34.925" y1="64.135" x2="34.925" y2="59.055" width="0.6096" layer="1"/>
+<wire x1="34.925" y1="63.8175" x2="34.925" y2="59.055" width="0.6096" layer="1"/>
 <wire x1="34.925" y1="59.055" x2="36.83" y2="57.15" width="0.6096" layer="1"/>
-<contactref element="J2" pad="GND@2"/>
-<wire x1="38.4575" y1="64.13" x2="34.93" y2="64.13" width="0.6096" layer="1"/>
 <wire x1="34.93" y1="64.13" x2="34.925" y2="64.135" width="0.6096" layer="1"/>
 <wire x1="33.655" y1="66.04" x2="34.925" y2="64.77" width="0.6096" layer="1"/>
+<contactref element="J2" pad="GND@1"/>
+<wire x1="36.83" y1="57.15" x2="40.3225" y2="60.6425" width="0.6096" layer="1"/>
+<wire x1="40.3225" y1="60.6425" x2="40.3225" y2="64.295" width="0.6096" layer="1"/>
+<wire x1="40.3225" y1="64.295" x2="43.4575" y2="67.43" width="0.6096" layer="1"/>
 </signal>
 <signal name="N$7">
 <contactref element="Q2" pad="1"/>
