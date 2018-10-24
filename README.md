@@ -5,6 +5,9 @@ Author: Gunnar Bjorkman
 -->
 
 <h3>RGBamp</h3>
+
+This project ties in nicely with https://github.com/Gunnthorian/homebridge-pwmhat my homebridge smart home program
+
 <h4>This is an open source hardware project -- RGB amplifier 0-5v to 0-12v</h4>
 
 Designed by Gunnar Bjorkman
